@@ -1,0 +1,9 @@
+{
+  "main": "serve.js",
+  "scripts": {
+    "start": "node serve.js"
+  },
+  "dependencies": {
+    "mongodb": "4.5.0"
+  }
+}
